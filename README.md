@@ -1,1 +1,1 @@
-# SAR-image-ship-detector
+2024秋SCNU AI项目
