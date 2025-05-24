@@ -6,3 +6,5 @@
     global model
     if 'model' not in globals():
         model = YOLO('D:\code\python深度学习\SAR图像目标检测\_train10\weights\last.pt')
+
+改好路径后在终端输入streamlit run SAR_ship_detection.py的路径即可运行
